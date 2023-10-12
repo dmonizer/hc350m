@@ -15,33 +15,35 @@
 11. LED Quantity: 36 pcs.
 
 ## Specifications:
-Image Sensor: 16 Mega Pixel color CMOS
-Video Resolution: 1080P/15fps,720P/30fps, VGA/60fps
-Picture Resolution: 4000x3000/12MP
-MMS Phone NO. : 1 ~ 4 Phone Numbers
-Email: 1 ~ 4 Email address(GPRS and MMS) SMS Command Function
+* Image Sensor: 16 Mega Pixel color CMOS
+* Video Resolution: 1080P/15fps,720P/30fps, VGA/60fps
+* Picture Resolution: 4000x3000/12MP
+* MMS Phone NO. : 1 ~ 4 Phone Numbers
+* Email: 1 ~ 4 Email address(GPRS and MMS) SMS Command Function
 
-FOV: 90 degree & Sensing Angle100 degree
-TFT Display Screen: 480(RGB)*234DOT; 16.7M color
-Memory: TF MAX 32GB
-PIR Distance: 25Meters
-Operation: Day/ Night
-Shooting Number: 1-9, programmable
-Video Length: 1-60second, programmable
-Interface: TV out (NTSC); USB; TF Card Slot; 6V DC External
-Certificate: FCC & CE ROHS
-Camera size: 80mmx145mmx55mm
+* FOV: 90 degree & Sensing Angle100 degree
+* TFT Display Screen: 480(RGB)*234DOT; 16.7M color
+* Memory: TF MAX 32GB
+* PIR Distance: 25Meters
+* Operation: Day/ Night
+* Shooting Number: 1-9, programmable
+* Video Length: 1-60second, programmable
+* Interface: TV out (NTSC); USB; TF Card Slot; 6V DC External
+* Certificate: FCC & CE ROHS
+* Camera size: 80mmx145mmx55mm
 
 ## SMS Commands in MMS mode:
 
+TBD
 
 ## HC-350M & HC-300M difference
 
-This HC-350M looks exactly the same as HC-300M, the difference are as follows:
+HC-350M looks exactly the same as HC-300M, the difference are as follows:
 
-i. Triggered time: 
-ii. HC350M 0.5S. 
-ii. HC300M are 1.0S.
-i. Picture resolution: 
-ii. HC350M 16MP. 
-ii. HC300M are 12mp.
+1. Trigger time: 
+* HC350M 0.5 s 
+* HC300M 1.0 s
+
+2. Picture resolution: 
+* HC350M 16MP. 
+* HC300M 12MP.
